@@ -1,4 +1,4 @@
-# Hello Everyone 👋, # Hi there, I'm Anurag Pradhan👋
+# Hello Everyone 👋, # I'm Anurag Pradhan.
 ### A passionate React.js Developer 🚀
 I am an enthusiastic front-end web developer, specifically ReactJS, JavaScript (ES6+), Redux, and Mordern UI frameworks. I enjoy creating interactive and user-friendly web applications. I am eager to contribute my enthusiasm and dedication to whatever project or team I am a part of and am continuously acquiring knowledge and keeping up with the most recent technology and best practices in the industry.
 
